@@ -10,7 +10,7 @@ fn main() {
 }
 
 
-struct Captcha {
+pub struct Captcha {
     pub text: String,
     pub base_img: String,
 }
