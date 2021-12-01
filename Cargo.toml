@@ -1,0 +1,18 @@
+[package]
+name = "captcha_rust"
+version = "0.1.0"
+edition = "2018"
+authors = ["Cheng SANFA <1322484007@qq.com>"]
+readme = "README.md"
+repository = "https://github.com/duzhaosongyue/captcha_rust"
+license = "MIT OR Apache-2.0"
+license-file = "LICENSE.txt"
+keywords = ["captcha_rust", "captcha"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
+image = "0.23.14"
+base64 = "0.13.0"
+imageproc="0.22.0"
+rusttype ="0.9.2"
