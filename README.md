@@ -3,7 +3,7 @@
 Add warp and Tokio to your dependencies:
 
 ```toml
-captcha_rust =  "0.1.0"
+captcha_rust =  "0.1.1"
 ```
 
 And then get started in your `main.rs`:
