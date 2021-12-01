@@ -2,9 +2,9 @@
 
  **captcha_rust** is a library that generates picture verification codes. Example pictures are as follows:  
 
- ![1.png](https://github.com/duzhaosongyue/captcha_rust/blob/main/img/1.png) | ![2.png](https://github.com/duzhaosongyue/captcha_rust/blob/main/img/2.png) | ![3.png](https://github.com/duzhaosongyue/captcha_rust/blob/main/img/3.png) 
+ ![1.png](https://github.com/duzhaosongyue/img/blob/main/1.png?raw=true) | ![2.png](https://github.com/duzhaosongyue/img/blob/main/2.png?raw=true) | ![3.png](https://github.com/duzhaosongyue/img/blob/main/3.png?raw=true) 
    ---- | ----- | ------  
- ![4.png](https://github.com/duzhaosongyue/captcha_rust/blob/main/img/4.png) | ![5.png](https://github.com/duzhaosongyue/captcha_rust/blob/main/img/5.png) | ![6.png](https://github.com/duzhaosongyue/captcha_rust/blob/main/img/6.png)
+ ![4.png](https://github.com/duzhaosongyue/img/blob/main/4.png?raw=true) | ![5.png](https://github.com/duzhaosongyue/img/blob/main/5.png?raw=true) | ![6.png](https://github.com/duzhaosongyue/img/blob/main/6.png?raw=true)
 
 ## Example
 
