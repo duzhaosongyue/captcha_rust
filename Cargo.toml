@@ -1,6 +1,6 @@
 [package]
 name = "captcha_rust"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2018"
 authors = ["Cheng SANFA <1322484007@qq.com>"]
 readme = "README.md"
