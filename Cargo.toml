@@ -5,10 +5,12 @@ edition = "2018"
 authors = ["Cheng SANFA <1322484007@qq.com>"]
 readme = "README.md"
 repository = "https://github.com/duzhaosongyue/captcha_rust"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+homepage =""
+documentation = ""
 license-file = "LICENSE.txt"
 keywords = ["captcha_rust", "captcha"]
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Dynamically generate verification code pictures"
 
 [dependencies]
 rand = "0.8.4"
