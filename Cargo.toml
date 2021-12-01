@@ -8,7 +8,6 @@ repository = "https://github.com/duzhaosongyue/captcha_rust"
 license = "MIT"
 homepage ="https://github.com/duzhaosongyue/captcha_rust"
 documentation = "https://github.com/duzhaosongyue/captcha_rust/blob/main/README.md"
-license-file = "LICENSE.txt"
 keywords = ["captcha_rust", "captcha"]
 description = "Dynamically generate verification code pictures"
 
